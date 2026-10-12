@@ -1,0 +1,10 @@
+{
+  "description": "Automates personal knowledge management by AI-tagging, categorizing, and summarizing articles for effortless browsing and minimal manual adjustment.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
